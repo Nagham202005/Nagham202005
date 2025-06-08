@@ -33,8 +33,8 @@ Throughout my journey, I've worked with various technologies and built real-worl
 
 ## 📫 Let’s Connect!
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/nagham-osama-36ba10323/))
-- 🐙 [GitHub]([https://github.com/your-username](https://github.com/Nagham202005))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nagham-osama-36ba10323/]
+- 🐙 [GitHub](https://github.com/Nagham202005]
 - 📧 Email: onono7905@gmail.com
 
 ---
